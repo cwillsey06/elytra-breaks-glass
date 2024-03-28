@@ -3,13 +3,14 @@
 	"id": "elytra-breaks-glass",
 	"version": "${version}",
 	"name": "Elytra Breaks Glass",
-	"description": "Shatter glass upon impact",
+	"description": "Shatter windows with style!",
 	"authors": [
 		"Coltrane Willsey"
 	],
 	"contact": {
-		"homepage": "https://github.com/cwillsey06",
-		"sources": "https://github.com/cwillsey06/elytra-breaks-glass"
+		"homepage": "https://modrinth.com/mod/elytra-breaks-glass",
+		"sources": "https://github.com/cwillsey06/elytra-breaks-glass",
+		"issues": "https://github.com/cwillsey06/elytra-breaks-glass/issues"
 	},
 	"license": "ISC",
 	"icon": "assets/elytra-breaks-glass/icon.png",
